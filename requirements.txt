@@ -1,6 +1,4 @@
-#pystan
-#fbprophet
-
+streamlit
 fbprophet==0.7.1
 matplotlib==3.2.2
 pandas==1.0.5
